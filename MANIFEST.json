@@ -1,0 +1,122 @@
+{
+  "site_source_commit": "008034aac01a52279e8e6f3935b6116fdd528538",
+  "crm_source_commit": "b11f7195c76fdb1645bc1e525cca40c3f975c4bd",
+  "files": [
+    {
+      "path": "README.txt",
+      "bytes": 2969,
+      "sha256": "55c0cb6fa41dd032c61348a487dd36b851d9c55280cfca420a1ffbbe57db83ca"
+    },
+    {
+      "path": "forms/crm-form-config.js",
+      "bytes": 165,
+      "sha256": "46807277ffe4bcd5f14b0afbf5dde217ffbd56559360ad9e6a5e441837a8a45f"
+    },
+    {
+      "path": "forms/crm-forms-embed-1.1.0.js",
+      "bytes": 13490,
+      "sha256": "3968c96f7aeedc04ab5d8313c10aace30f3e07c1b492e640c0ae7f091ee59544"
+    },
+    {
+      "path": "forms/crm-forms.zip",
+      "bytes": 24625,
+      "sha256": "391e7f9fc0273f00e9879e1c19f9e519704c2d29ab3e2b47a69573f396e360e2"
+    },
+    {
+      "path": "forms/standard-form-example.html",
+      "bytes": 935,
+      "sha256": "aaa8d4b708b8d6333b904674f4afd412719a6df4c573838c666db429d1dcc7c1"
+    },
+    {
+      "path": "licenses/barlow-condensed-OFL.txt",
+      "bytes": 4377,
+      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f"
+    },
+    {
+      "path": "licenses/inter-OFL.txt",
+      "bytes": 4377,
+      "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+    },
+    {
+      "path": "website/build_pages.py",
+      "bytes": 28003,
+      "sha256": "0548bf324d4e8aa7563173e888684d758b18cf71fbe20ecf6139262a33a64d45"
+    },
+    {
+      "path": "website/dist/app.js",
+      "bytes": 8580,
+      "sha256": "d8fa09c61da774d3f3f58bcebb437125a0c8e4eabbfb92aca6e08da60860d80e"
+    },
+    {
+      "path": "website/dist/assets/barlow-600.ttf",
+      "bytes": 86636,
+      "sha256": "0d85af813fc3ed87db0c6265515689b2eef5cbaf7aab17922528dfc95a2cd73f"
+    },
+    {
+      "path": "website/dist/assets/barlow-700.ttf",
+      "bytes": 87120,
+      "sha256": "7dde307fa887fc65ff5830cfada77a7decc5dae8d3c816c9d39ba3f1af1c4ed7"
+    },
+    {
+      "path": "website/dist/assets/cq-logo.webp",
+      "bytes": 21886,
+      "sha256": "58ed24553e68bf524ba59f4488c9e9af262f8696243a3bc03068486252a12433"
+    },
+    {
+      "path": "website/dist/assets/crane-jobsite.webp",
+      "bytes": 98114,
+      "sha256": "4addc66e5d26369a249d324cee0efe6c24a2f1df85bd25bf88bb6ff87c7ac66a"
+    },
+    {
+      "path": "website/dist/assets/crane-lift.webp",
+      "bytes": 122076,
+      "sha256": "a173aa7c495d86c046c8bfd45062c5053b730700e4c479a8871afbc3598e1564"
+    },
+    {
+      "path": "website/dist/assets/inter-400.ttf",
+      "bytes": 324820,
+      "sha256": "1b08e7fc267a5c7e1d614100f604b83e7e8a0be241f0f288faa2b3ac93a683ba"
+    },
+    {
+      "path": "website/dist/assets/inter-600.ttf",
+      "bytes": 326048,
+      "sha256": "e7a1aaf7eda9f2fad4131725fa556265ec75ca7b2d756260173a040363e8d4f7"
+    },
+    {
+      "path": "website/dist/assets/operator.webp",
+      "bytes": 158024,
+      "sha256": "551fe45fc527d1e8f25ecf7d76aa4246516b71c56a2bfadd88048d217b8d9812"
+    },
+    {
+      "path": "website/dist/index.html",
+      "bytes": 18811,
+      "sha256": "edf8e5612959625805e2c2035fe95d1321d86544b9ddbcbce3eec872c596d4e8"
+    },
+    {
+      "path": "website/dist/insights/certified-versus-qualified/index.html",
+      "bytes": 6083,
+      "sha256": "577c4bf9dd9e86286e8d7779875d9c52c48ef198d4656d80b5259751464eae35"
+    },
+    {
+      "path": "website/dist/insights/developing-operators-from-within/index.html",
+      "bytes": 6241,
+      "sha256": "e11d41c45cf5df048d83a7d951d819cbeee8439b043c86ae557b09444705d0b1"
+    },
+    {
+      "path": "website/dist/insights/operator-development-plan/index.html",
+      "bytes": 6245,
+      "sha256": "7b00e9fd1aa415b33f1171c289fd4213671f0a5076fb5c0f1f0546126e30498e"
+    },
+    {
+      "path": "website/dist/robots.txt",
+      "bytes": 26,
+      "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
+    },
+    {
+      "path": "website/dist/styles.css",
+      "bytes": 22287,
+      "sha256": "f00f2de3e3c481f0e01e043bb5d6a717fb7ed8066c46205a9876a5bd24b638b0"
+    }
+  ],
+  "package_revision": "Public developer repository handoff requested by the owner, 2026-10-12. Implementation code, plugin archive, assets and licenses are unchanged from the supplied source package. README documentation and manifest metadata updated; README.md and .gitignore added."
+}
