@@ -1,0 +1,63 @@
+{
+  "status": "passed",
+  "viewports": [
+    1440,
+    820,
+    390,
+    360
+  ],
+  "browser_errors": [],
+  "production_form_submissions": 0,
+  "physical_device_test": false,
+  "results": [
+    {
+      "brand": "cq",
+      "route": "/",
+      "width": 1440,
+      "status": "passed"
+    },
+    {
+      "brand": "cq",
+      "route": "/insights/certified-versus-qualified/",
+      "width": 1440,
+      "status": "passed"
+    },
+    {
+      "brand": "cq",
+      "route": "/",
+      "width": 820,
+      "status": "passed"
+    },
+    {
+      "brand": "cq",
+      "route": "/insights/certified-versus-qualified/",
+      "width": 820,
+      "status": "passed"
+    },
+    {
+      "brand": "cq",
+      "route": "/",
+      "width": 390,
+      "status": "passed"
+    },
+    {
+      "brand": "cq",
+      "route": "/insights/certified-versus-qualified/",
+      "width": 390,
+      "status": "passed"
+    },
+    {
+      "brand": "cq",
+      "route": "/",
+      "width": 360,
+      "status": "passed"
+    },
+    {
+      "brand": "cq",
+      "route": "/insights/certified-versus-qualified/",
+      "width": 360,
+      "status": "passed"
+    }
+  ],
+  "route_viewport_cases": 8
+}
