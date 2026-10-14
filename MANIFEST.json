@@ -4,28 +4,28 @@
   "files": [
     {
       "path": "README.md",
-      "bytes": 3017,
-      "sha256": "70ec5b5e95eb1ddfe7df081d9f8672629fc213b848e8945089e08a670da285ca"
+      "bytes": 3157,
+      "sha256": "6e6171a2c1d9a3fa3e4c56978ad2dc0fcff9c851351945282ae5cc38c837f1ad"
     },
     {
       "path": "README.txt",
-      "bytes": 3016,
-      "sha256": "1f36d4b6b90dc8cf5082d24d3a81dd76338586f51061b0f5f60dc8f88bb607b7"
+      "bytes": 2969,
+      "sha256": "55c0cb6fa41dd032c61348a487dd36b851d9c55280cfca420a1ffbbe57db83ca"
     },
     {
       "path": "docs/MSC-L41-REVIEW.md",
-      "bytes": 3483,
-      "sha256": "4cc4e22d1659d42ef7a74b27399b82b72265393e3be829d114f5753cd73956af"
+      "bytes": 3426,
+      "sha256": "245a997aeb306dcc4912b38fcdd72f98c82f43f359f4b0f20b13a6cdc5496f16"
     },
     {
       "path": "docs/cranequalified-employer-overview.md",
-      "bytes": 1872,
-      "sha256": "ed1b985d1eba29f24cc76246b48542e55d0548e2013cee799393d662ec6dfd43"
+      "bytes": 1841,
+      "sha256": "211556d9808f0dacc2e179ad70550c23c12b9e3f35f153bc1752f183995f70ce"
     },
     {
       "path": "docs/msc-l41-review/document-verification.json",
-      "bytes": 344,
-      "sha256": "e06c380d189d7f9de75233c437a64a577b485bf3b2f79a9092d92ebaf30b276a"
+      "bytes": 334,
+      "sha256": "a458b194c27bb6e8408ef2680f9a7fe150b9e2f6e504cd0d4a74199161897264"
     },
     {
       "path": "docs/msc-l41-review/home-1440.png",
@@ -39,18 +39,18 @@
     },
     {
       "path": "docs/msc-l41-review/qa-results.json",
-      "bytes": 1225,
-      "sha256": "de3bb22aaaaa866559ddbd6c98743efacbdb3e18c00d884f19ebd0c2d84bd76f"
+      "bytes": 1162,
+      "sha256": "77749265e3063ddcaaa6459d65b1bf667e8173c7c434320da16d7aa6b25c6eaa"
     },
     {
       "path": "forms/crm-form-config.js",
-      "bytes": 169,
-      "sha256": "a599844bd816fd1f917110fe6131bfb8f62e2a641d0bd61ccc506de4c23e1fb6"
+      "bytes": 165,
+      "sha256": "46807277ffe4bcd5f14b0afbf5dde217ffbd56559360ad9e6a5e441837a8a45f"
     },
     {
       "path": "forms/crm-forms-embed-1.1.0.js",
-      "bytes": 13737,
-      "sha256": "53f63f57f0e9578d73ae86339d0639434a54d40e004be0bf1fa03a5f3d0ece60"
+      "bytes": 13490,
+      "sha256": "3968c96f7aeedc04ab5d8313c10aace30f3e07c1b492e640c0ae7f091ee59544"
     },
     {
       "path": "forms/crm-forms.zip",
@@ -59,28 +59,28 @@
     },
     {
       "path": "forms/standard-form-example.html",
-      "bytes": 946,
-      "sha256": "e5fd1dc12de3c0d22df34eac8369dc1b2be634adcf3f1dc68a07e7477cfad2e5"
+      "bytes": 935,
+      "sha256": "aaa8d4b708b8d6333b904674f4afd412719a6df4c573838c666db429d1dcc7c1"
     },
     {
       "path": "licenses/barlow-condensed-OFL.txt",
-      "bytes": 4470,
-      "sha256": "b4cc842153e834885f3f9385ce26de4e1213d3ffbe473a6c0519e5522a8e3608"
+      "bytes": 4377,
+      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f"
     },
     {
       "path": "licenses/inter-OFL.txt",
-      "bytes": 4470,
-      "sha256": "f14f2b95a38f4f20cad4d27f7710593f37534c046641be0348da7c28365f4e39"
+      "bytes": 4377,
+      "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
     },
     {
       "path": "website/build_pages.py",
-      "bytes": 29705,
-      "sha256": "c985badc20743627728b74393f76e71ceaa3471928cbb619dc3e82d19e2061b4"
+      "bytes": 29632,
+      "sha256": "0d489ed5b2bb12188a3d6279cdf1205633663e073dfefa5627f8526eed2dd612"
     },
     {
       "path": "website/dist/app.js",
-      "bytes": 8660,
-      "sha256": "5a8b0455c4315000c0e2fedb6d18bcb870ac37f35cebde6f37d6039d72093f7b"
+      "bytes": 8580,
+      "sha256": "d8fa09c61da774d3f3f58bcebb437125a0c8e4eabbfb92aca6e08da60860d80e"
     },
     {
       "path": "website/dist/assets/barlow-600.ttf",
@@ -129,35 +129,36 @@
     },
     {
       "path": "website/dist/index.html",
-      "bytes": 20410,
-      "sha256": "1198e6235b1846d8d820b836ed10e3899c276e164afd8b988acdd1498e1af405"
+      "bytes": 20395,
+      "sha256": "1be9849d3f5103caef1ab564735723d554eb55f970004145cc8a7b5a7e60e6c6"
     },
     {
       "path": "website/dist/insights/certified-versus-qualified/index.html",
-      "bytes": 6114,
-      "sha256": "7f3b9b446083354730d7f0e32665f25755f28084864b15545ce96ee591e0380b"
+      "bytes": 6106,
+      "sha256": "5d4c92c7dceb2fe795f87199aab3a57bf0bc891afc8b1e403d3f179ab1e0264e"
     },
     {
       "path": "website/dist/insights/developing-operators-from-within/index.html",
-      "bytes": 6273,
-      "sha256": "24f17b605c73833f1aa9eb9388e44f4a112d4f7c875856c386c0790020722f5f"
+      "bytes": 6264,
+      "sha256": "e3877e99f69d07bf0e4e92e0aa4fd9fdada45f27ad5a81589dd267d3c7894bf2"
     },
     {
       "path": "website/dist/insights/operator-development-plan/index.html",
-      "bytes": 6274,
-      "sha256": "a7dbcc462a008e279d35d6b3a7f04f40e19bf8eccafb67896853c4a2973db49f"
+      "bytes": 6268,
+      "sha256": "8b5022c250aeda436c41bd5741c4ba1ed06955c92f5341865dff32f0f96977d7"
     },
     {
       "path": "website/dist/robots.txt",
-      "bytes": 28,
-      "sha256": "a8f31103361fca68bef71fc69cff844b7c23bd3d64d2b872d74690cbda656bfc"
+      "bytes": 26,
+      "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
     },
     {
       "path": "website/dist/styles.css",
-      "bytes": 22307,
-      "sha256": "33fb04c53519b79e823a6d49539ceebb47488a0182763347af11e6f0d32f9c75"
+      "bytes": 22287,
+      "sha256": "f00f2de3e3c481f0e01e043bb5d6a717fb7ed8066c46205a9876a5bd24b638b0"
     }
   ],
   "package_revision": "October 14, 2026 review: revised workforce marketing copy and shared footer, employer overview, QA evidence; forms, plugin archive, original brand assets and licenses preserved.",
-  "review_base_commit": "e67b6bb"
+  "review_base_commit": "e67b6bb",
+  "hash_basis": "Canonical Git blob bytes, as distributed by GitHub source downloads. Windows working-file text line endings may differ; binary PDF/image bytes are preserved."
 }
