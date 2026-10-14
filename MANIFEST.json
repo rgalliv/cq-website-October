@@ -3,19 +3,54 @@
   "crm_source_commit": "b11f7195c76fdb1645bc1e525cca40c3f975c4bd",
   "files": [
     {
+      "path": "README.md",
+      "bytes": 3017,
+      "sha256": "70ec5b5e95eb1ddfe7df081d9f8672629fc213b848e8945089e08a670da285ca"
+    },
+    {
       "path": "README.txt",
-      "bytes": 2969,
-      "sha256": "55c0cb6fa41dd032c61348a487dd36b851d9c55280cfca420a1ffbbe57db83ca"
+      "bytes": 3016,
+      "sha256": "1f36d4b6b90dc8cf5082d24d3a81dd76338586f51061b0f5f60dc8f88bb607b7"
+    },
+    {
+      "path": "docs/MSC-L41-REVIEW.md",
+      "bytes": 3483,
+      "sha256": "4cc4e22d1659d42ef7a74b27399b82b72265393e3be829d114f5753cd73956af"
+    },
+    {
+      "path": "docs/cranequalified-employer-overview.md",
+      "bytes": 1872,
+      "sha256": "ed1b985d1eba29f24cc76246b48542e55d0548e2013cee799393d662ec6dfd43"
+    },
+    {
+      "path": "docs/msc-l41-review/document-verification.json",
+      "bytes": 344,
+      "sha256": "e06c380d189d7f9de75233c437a64a577b485bf3b2f79a9092d92ebaf30b276a"
+    },
+    {
+      "path": "docs/msc-l41-review/home-1440.png",
+      "bytes": 902923,
+      "sha256": "71a4aeedbb1f7ece34c9ce17698f0ef6972d3639d58b664c9cfd9e2980a44cd2"
+    },
+    {
+      "path": "docs/msc-l41-review/home-390.png",
+      "bytes": 101463,
+      "sha256": "a3335859264db5842343640ea53b85623d389faeff00aefa5e4744001eadfa28"
+    },
+    {
+      "path": "docs/msc-l41-review/qa-results.json",
+      "bytes": 1225,
+      "sha256": "de3bb22aaaaa866559ddbd6c98743efacbdb3e18c00d884f19ebd0c2d84bd76f"
     },
     {
       "path": "forms/crm-form-config.js",
-      "bytes": 165,
-      "sha256": "46807277ffe4bcd5f14b0afbf5dde217ffbd56559360ad9e6a5e441837a8a45f"
+      "bytes": 169,
+      "sha256": "a599844bd816fd1f917110fe6131bfb8f62e2a641d0bd61ccc506de4c23e1fb6"
     },
     {
       "path": "forms/crm-forms-embed-1.1.0.js",
-      "bytes": 13490,
-      "sha256": "3968c96f7aeedc04ab5d8313c10aace30f3e07c1b492e640c0ae7f091ee59544"
+      "bytes": 13737,
+      "sha256": "53f63f57f0e9578d73ae86339d0639434a54d40e004be0bf1fa03a5f3d0ece60"
     },
     {
       "path": "forms/crm-forms.zip",
@@ -24,28 +59,28 @@
     },
     {
       "path": "forms/standard-form-example.html",
-      "bytes": 935,
-      "sha256": "aaa8d4b708b8d6333b904674f4afd412719a6df4c573838c666db429d1dcc7c1"
+      "bytes": 946,
+      "sha256": "e5fd1dc12de3c0d22df34eac8369dc1b2be634adcf3f1dc68a07e7477cfad2e5"
     },
     {
       "path": "licenses/barlow-condensed-OFL.txt",
-      "bytes": 4377,
-      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f"
+      "bytes": 4470,
+      "sha256": "b4cc842153e834885f3f9385ce26de4e1213d3ffbe473a6c0519e5522a8e3608"
     },
     {
       "path": "licenses/inter-OFL.txt",
-      "bytes": 4377,
-      "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+      "bytes": 4470,
+      "sha256": "f14f2b95a38f4f20cad4d27f7710593f37534c046641be0348da7c28365f4e39"
     },
     {
       "path": "website/build_pages.py",
-      "bytes": 28003,
-      "sha256": "0548bf324d4e8aa7563173e888684d758b18cf71fbe20ecf6139262a33a64d45"
+      "bytes": 29705,
+      "sha256": "c985badc20743627728b74393f76e71ceaa3471928cbb619dc3e82d19e2061b4"
     },
     {
       "path": "website/dist/app.js",
-      "bytes": 8580,
-      "sha256": "d8fa09c61da774d3f3f58bcebb437125a0c8e4eabbfb92aca6e08da60860d80e"
+      "bytes": 8660,
+      "sha256": "5a8b0455c4315000c0e2fedb6d18bcb870ac37f35cebde6f37d6039d72093f7b"
     },
     {
       "path": "website/dist/assets/barlow-600.ttf",
@@ -88,35 +123,41 @@
       "sha256": "551fe45fc527d1e8f25ecf7d76aa4246516b71c56a2bfadd88048d217b8d9812"
     },
     {
+      "path": "website/dist/downloads/employer-overview.pdf",
+      "bytes": 233470,
+      "sha256": "a589df07a9a36a8d475615bbf011813c89b99dfecabd5ef5b3bd9aa900956ec4"
+    },
+    {
       "path": "website/dist/index.html",
-      "bytes": 18811,
-      "sha256": "edf8e5612959625805e2c2035fe95d1321d86544b9ddbcbce3eec872c596d4e8"
+      "bytes": 20410,
+      "sha256": "1198e6235b1846d8d820b836ed10e3899c276e164afd8b988acdd1498e1af405"
     },
     {
       "path": "website/dist/insights/certified-versus-qualified/index.html",
-      "bytes": 6083,
-      "sha256": "577c4bf9dd9e86286e8d7779875d9c52c48ef198d4656d80b5259751464eae35"
+      "bytes": 6114,
+      "sha256": "7f3b9b446083354730d7f0e32665f25755f28084864b15545ce96ee591e0380b"
     },
     {
       "path": "website/dist/insights/developing-operators-from-within/index.html",
-      "bytes": 6241,
-      "sha256": "e11d41c45cf5df048d83a7d951d819cbeee8439b043c86ae557b09444705d0b1"
+      "bytes": 6273,
+      "sha256": "24f17b605c73833f1aa9eb9388e44f4a112d4f7c875856c386c0790020722f5f"
     },
     {
       "path": "website/dist/insights/operator-development-plan/index.html",
-      "bytes": 6245,
-      "sha256": "7b00e9fd1aa415b33f1171c289fd4213671f0a5076fb5c0f1f0546126e30498e"
+      "bytes": 6274,
+      "sha256": "a7dbcc462a008e279d35d6b3a7f04f40e19bf8eccafb67896853c4a2973db49f"
     },
     {
       "path": "website/dist/robots.txt",
-      "bytes": 26,
-      "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
+      "bytes": 28,
+      "sha256": "a8f31103361fca68bef71fc69cff844b7c23bd3d64d2b872d74690cbda656bfc"
     },
     {
       "path": "website/dist/styles.css",
-      "bytes": 22287,
-      "sha256": "f00f2de3e3c481f0e01e043bb5d6a717fb7ed8066c46205a9876a5bd24b638b0"
+      "bytes": 22307,
+      "sha256": "33fb04c53519b79e823a6d49539ceebb47488a0182763347af11e6f0d32f9c75"
     }
   ],
-  "package_revision": "Public developer repository handoff requested by the owner, 2026-10-12. Implementation code, plugin archive, assets and licenses are unchanged from the supplied source package. README documentation and manifest metadata updated; README.md and .gitignore added."
+  "package_revision": "October 14, 2026 review: revised workforce marketing copy and shared footer, employer overview, QA evidence; forms, plugin archive, original brand assets and licenses preserved.",
+  "review_base_commit": "e67b6bb"
 }

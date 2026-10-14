@@ -1,0 +1,2 @@
+# Preserve authored PDFs byte-for-byte across Windows checkouts.
+*.pdf binary
