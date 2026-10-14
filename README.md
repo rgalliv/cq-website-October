@@ -20,6 +20,10 @@ hosting manifest is absent. It does not create hosting configuration. Asset,
 form and plugin files remain unchanged; `MANIFEST.json` records the revised
 marketing-file hashes and preserves the original source references.
 
+Manifest hashes use canonical Git blob bytes, matching GitHub source downloads.
+Windows working checkouts can use different text line endings. PDF and image
+hashes remain byte-for-byte checks.
+
 ## Download
 
 Use **Code > Download ZIP**, or [download the complete repository](https://github.com/rgalliv/cq-website-October/archive/refs/heads/main.zip).
